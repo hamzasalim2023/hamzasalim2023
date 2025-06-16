@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Hamza and I am a university student in the<br>University of British Columbia in Vancouver. I am fascinated with the<br>world of tech, especially cybersecurity and data science. I look forward <br>to adding more projects to my repertoire as I embark on this journey. <br>I am also passionate about sports and advocacy.
+Hi there! My name is Hamza and I am a university student in the<br>Illinois Institute of Technology in Chicago. I am fascinated with the<br>world of tech, especially cybersecurity and data science. I look forward <br>to adding more projects to my repertoire as I embark on this journey. <br>I am also passionate about sports and political advocacy.
 
 
 ## 🌐 Socials:
